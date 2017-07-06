@@ -1,0 +1,446 @@
+[
+  {
+    "Capacity": 1,
+    "Monthly_Price": 600,
+    "Start_Day": "2014-07-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-04-02",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 5,
+    "Monthly_Price": 2800,
+    "Start_Day": "2014-03-01",
+    "End_Day": "2014-04-30"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1500,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-06-30"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 1700,
+    "Start_Day": "2014-04-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 3,
+    "Monthly_Price": 1300,
+    "Start_Day": "2014-04-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 15,
+    "Monthly_Price": 6500,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-08-31"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 3,
+    "Monthly_Price": 1400,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 18,
+    "Monthly_Price": 7200,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 800,
+    "Start_Day": "2014-06-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 700,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-06-30"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1250,
+    "Start_Day": "2014-04-16",
+    "End_Day": "2014-06-02"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 600,
+    "Start_Day": "2013-11-01",
+    "End_Day": "2014-05-31"
+  },
+  {
+    "Capacity": 8,
+    "Monthly_Price": 4000,
+    "Start_Day": "2014-06-02",
+    "End_Day": "2014-07-31"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1300,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-10-31"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2200,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 14,
+    "Monthly_Price": 11875,
+    "Start_Day": "2014-06-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1500,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-08-31"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1500,
+    "Start_Day": "2012-06-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 3,
+    "Monthly_Price": 1850,
+    "Start_Day": "2014-04-09",
+    "End_Day": "2014-08-06"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1100,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-09-30"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 625,
+    "Start_Day": "2014-04-11",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 1000,
+    "Start_Day": "2014-02-14",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 6,
+    "Monthly_Price": 3600,
+    "Start_Day": "2014-04-02",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 950,
+    "Start_Day": "2013-02-01",
+    "End_Day": "2014-05-31"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2500,
+    "Start_Day": "2013-06-01",
+    "End_Day": "2014-04-30"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1200,
+    "Start_Day": "2014-07-01",
+    "End_Day": "2014-08-31"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 950,
+    "Start_Day": "2014-06-01",
+    "End_Day": "2014-08-31"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 3200,
+    "Start_Day": "2014-04-01",
+    "End_Day": "2014-09-30"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-03-27",
+    "End_Day": "2014-04-10"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2600,
+    "Start_Day": "2014-02-01",
+    "End_Day": "2014-04-08"
+  },
+  {
+    "Capacity": 11,
+    "Monthly_Price": 5500,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1200,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-07-02"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 600,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-07-31"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 800,
+    "Start_Day": "2013-11-01",
+    "End_Day": "2014-04-30"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 700,
+    "Start_Day": "2013-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 900,
+    "Start_Day": "2014-07-01",
+    "End_Day": "2014-08-31"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1400,
+    "Start_Day": "2014-04-02",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1500,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1200,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1500,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-10-31"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 900,
+    "Start_Day": "2014-02-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-04-14",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 900,
+    "Start_Day": "2014-01-01",
+    "End_Day": "2014-06-30"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1000,
+    "Start_Day": "2013-12-01",
+    "End_Day": "2014-06-30"
+  },
+  {
+    "Capacity": 9,
+    "Monthly_Price": 4500,
+    "Start_Day": "2014-02-06",
+    "End_Day": "2014-04-30"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2500,
+    "Start_Day": "2013-08-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 6,
+    "Monthly_Price": 2900,
+    "Start_Day": "2013-05-01",
+    "End_Day": "2014-05-31"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 600,
+    "Start_Day": "2014-04-09",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1700,
+    "Start_Day": "2014-02-14",
+    "End_Day": "2014-04-30"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 900,
+    "Start_Day": "2014-07-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 400,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-10-31"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 0,
+    "Start_Day": "2014-04-15",
+    "End_Day": "2014-05-01"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2500,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 3600,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 9,
+    "Monthly_Price": 4950,
+    "Start_Day": "2014-05-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1100,
+    "Start_Day": "2014-05-12",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 6,
+    "Monthly_Price": 2700,
+    "Start_Day": "2014-05-01",
+    "End_Day": "2014-08-31"
+  },
+  {
+    "Capacity": 16,
+    "Monthly_Price": 350,
+    "Start_Day": "2014-04-01",
+    "End_Day": "2014-08-31"
+  },
+  {
+    "Capacity": 2,
+    "Monthly_Price": 1300,
+    "Start_Day": "2012-10-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 950,
+    "Start_Day": "2014-06-01",
+    "End_Day": "2014-06-08"
+  },
+  {
+    "Capacity": 3,
+    "Monthly_Price": 2000,
+    "Start_Day": "2014-06-01",
+    "End_Day": "2014-06-30"
+  },
+  {
+    "Capacity": 8,
+    "Monthly_Price": 3600,
+    "Start_Day": "2014-07-08",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 6,
+    "Monthly_Price": 5400,
+    "Start_Day": "2014-05-12",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2700,
+    "Start_Day": "2013-09-01",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2600,
+    "Start_Day": "2012-06-01",
+    "End_Day": "2014-05-31"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2700,
+    "Start_Day": "2012-07-01",
+    "End_Day": "2014-04-30"
+  },
+  {
+    "Capacity": 1,
+    "Monthly_Price": 450,
+    "Start_Day": "2014-04-02",
+    "End_Day": ""
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2700,
+    "Start_Day": "2014-04-01",
+    "End_Day": "2014-04-30"
+  },
+  {
+    "Capacity": 4,
+    "Monthly_Price": 2200,
+    "Start_Day": "2014-06-01",
+    "End_Day": "2014-10-31"
+  }
+]
